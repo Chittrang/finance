@@ -1,0 +1,25 @@
+
+/*.footer {*/
+/*  text-align: center;*/
+/*  padding: 1rem;*/
+/*  background-color: #004080;*/
+/*  color: white;*/
+/*}*/
+/* global styles or module CSS */
+
+.pageContainer {
+  min-height: 100vh;       /* full viewport height */
+  display: flex;
+  flex-direction: column;
+}
+
+.pageContainer > main {
+  flex: 1;                 /* take all available space */
+}
+
+.footer {
+  background-color: #004080;
+  color: white;
+  padding: 1rem 2rem;
+  text-align: center;
+}
