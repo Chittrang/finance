@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>SR Money Loans - Home</title>
+        <title>The Perfect Capital - Home</title>
         <meta name="description" content="The Perfect Capital - Build your capital in India." />
       </Head>
       <Header />
