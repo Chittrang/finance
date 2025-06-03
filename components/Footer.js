@@ -29,7 +29,9 @@ export default function Footer() {
                 </a>
             </div>
 
-            <p>© 2025 The Perfect Capital</p>
+            <p style={{
+                color: antiquewhite
+            }}>© 2025 Perfect Capital</p>
 
             <style jsx>{`
         .footer {

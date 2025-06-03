@@ -10,7 +10,7 @@ export default function Header() {
 
     return (
         <header className={styles.header}>
-            <div className={styles.logo}>The Perfect Capital</div>
+            <div className={styles.logo}>Perfect Capital</div>
 
             <div className={styles.hamburger} onClick={toggleMenu}>
                 {menuOpen ? <X color="white" size={28} /> : <Menu color="white" size={28} />}
