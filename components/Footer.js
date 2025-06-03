@@ -30,7 +30,7 @@ export default function Footer() {
             </div>
 
             <p style={{
-                color: antiquewhite
+                color: "#faebd7"
             }}>© 2025 Perfect Capital</p>
 
             <style jsx>{`
