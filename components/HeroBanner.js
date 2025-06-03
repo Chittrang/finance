@@ -6,7 +6,7 @@ export default function Hero() {
     return (
         <section className="heroSection">
             <div className="heroContent">
-                <h1>Welcome to The Perfect Capital</h1>
+                <h1>Welcome to The <span style={{color:"#faebd7"}}>Perfect Capital</span></h1>
                 <p>Your trusted partner for quick and secure loans.</p>
                 <a
                     href="https://forms.gle/KUHxQggNT6mrHMGBA"
