@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <Head>
         <title>SR Money Loans - Home</title>
-        <meta name="description" content="SR Money Loans - Best personal loans in India." />
+        <meta name="description" content="The Perfect Capital - Build your capital in India." />
       </Head>
       <Header />
       <main className={styles.main}>
